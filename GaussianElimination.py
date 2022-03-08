@@ -111,6 +111,20 @@ def solveMatrix(row1,row2,row3):
             
         print("")
         
+        #STEP 2.5
+        if(r2[1]==0):
+            r3copy = r3.copy()
+            r2copy = r2.copy()
+            r2 = r3copy;
+            r3 = r2copy;
+            
+            print("INVERT R2 and R3")
+            
+            printMatrix(r1,r2,r3)
+            
+       
+		 
+        
         #STEP 3
         if(r3[1] != 0):
           
