@@ -6,3 +6,4 @@ The Aim of the project was to help students (in Algebra 2) with their problems a
 You can download this repo as a zip and run the index.html file.
 Additionally if you are interested on how it works, feel free to checkout the .py file for the Python version or .js file for the Javascript version.
 
+Web version available [Here](https://aarondcunha.github.io/tbcalculator/)
